@@ -1,6 +1,6 @@
 # 巴贝历 - 中国区
 
-ℹ 您不在中国地区？去看看 [Babely Global](https://github.com/babelycc/en/)，畅享更多功能。
+ℹ 您不在中国地区？去看看 [Babely Global](https://github.com/babelyx/en/)，畅享更多功能。
 
 ---
 
