@@ -10,4 +10,7 @@
 
 ---
 
-您不在中国地区？去看看 [Babelyx - Global](https://github.com/babelyx/en/)，畅享更多功能。
+您不在中国地区？想要畅享更多功能？去看看
+
+- [Babelyx Library - Global (as Github Repository)](https://github.com/babelyx/en/)
+- [Babelyx Library - Global (as official website)](https://lib.earth.babelyx.com)
