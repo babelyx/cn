@@ -4,7 +4,7 @@
 
 - [什么是巴贝历？](./home.md)
 - [版本升级记录](./news.md)
-- [怎样创建 Aipp 小应用？](./howto/create-aipp)
+- [怎样创建 Aipp 小应用？](./howto/create-aipp.md)
 
 [说一千道一万，不如立刻上手体验！](https://u.babely.cc)
 
