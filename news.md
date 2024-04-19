@@ -14,7 +14,7 @@
 
 巴贝历 1.0 成功上架谷歌应用商店！点击 [巴贝历/谷歌](https://gplay.babely.cc)，在安卓手机或平板上安装体验.
 
-<img src="./images/news/20240206-babely-googleplay.png" width="500"/>
+<img src="./images/20240206-babely-googleplay.png" width="500"/>
 
 ### 2024-01-30 联系客服
 
@@ -24,7 +24,7 @@
 
 新年元旦，专注于 Web3 的巴贝历 v1.0 重新启动，成功上架苹果应用商店！点击[《巴贝历/苹果》](https://ios.babely.cc)，在苹果手机或平板上安装体验！
 
-<img src="./images/news/20240101-babely-appstore.png" width="500"/>
+<img src="./images/20240101-babely-appstore.png" width="500"/>
 
 ### 2023-08-21 中国区审核
 
