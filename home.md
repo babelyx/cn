@@ -4,7 +4,7 @@
 
 - [什么是巴贝历？](./whitepaper.md)
 - [版本升级记录](./news.md)
-- [政策](.doc/)
+- [政策](./doc/)
   - [用户协议](./doc/agreement.md)
   - [隐私协议](./doc/privacy.md)
 - [指南](./howto/)
