@@ -14,4 +14,6 @@
 
 ---
 
+🔍 本站内容同步发布在各大平台（微信公众号、小红书、哔哩哔哩、抖音等），欢迎 [全网搜索、关注【巴贝历】](https://links.babely.cc)！
+
 🌐 您不在中国地区？想要畅享更多功能？去看看 [Babelyx - Global](https://lib.earth.babelyx.com)

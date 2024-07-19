@@ -1,6 +1,6 @@
 # 巴贝历 - 升级记录
 
-[下载最新版：Web、安卓、苹果](https://links.babely.cc)
+[全渠道已上架：Web、安卓、苹果](https://links.babely.cc)
 
 ### 2024-02-08 新春版上架苹果+谷歌商店
 
