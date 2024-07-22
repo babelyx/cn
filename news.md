@@ -1,14 +1,14 @@
 # 巴贝历 - 升级记录
 
-[全渠道已上架：Web、安卓、苹果](https://links.babely.cc)
+[下载应用：Web、安卓、苹果](https://links.babely.cc)
 
 ### 2024-02-08 新春版上架苹果+谷歌商店
 
 恭㊗️新春！新版本同时成功上架 苹果+谷歌应用商店！
 
-安卓用户：点击 [巴贝历/谷歌](https://gplay.babely.cc)，通过谷歌商店安装。或者点击 [巴贝历/APK](https://apk.babely.cc)，下载官方 APK 安装。
+安卓用户：点击 [巴贝历：谷歌商店](https://gplay.babely.cc)，通过谷歌商店安装。或者点击 [巴贝历：APK](https://apk.babely.cc)，下载官方 APK 安装。
 
-苹果用户：点击 [巴贝历/苹果](https://ios.babely.cc)，在 iPhone 或 iPad 上安装体验。
+苹果用户：点击 [巴贝历：苹果商店](https://ios.babely.cc)，在 iPhone 或 iPad 上安装体验。
 
 ### 2024-02-06 首次上架谷歌商店
 
