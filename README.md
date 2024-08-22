@@ -14,12 +14,12 @@
 - [指南](./howto/)
   - [怎样创建 Aipp 小应用？](./howto/create-aipp.md)
 
-说一千道一万，不如立刻 [上手体验巴贝历！](https://u.babely.cc)
+说一千道一万，不如立刻 [体验巴贝历！](https://u.babely.cc)
 
 欢迎 [全网搜索并关注【巴贝历】](https://links.babely.cc)
 
-有任何想法？联系我们：[hi@babely.cc](mailto:hi@babely.cc)
+有任何想法？发送邮件给我们 [hi@babely.cc](mailto:hi@babely.cc) 或者 [在这里留言](https://csr.babely.cc)
 
 ---
 
-🌐 您不在中国地区？想要畅享更多功能？去看看 [Babelyx - Global](https://lib.earth.babelyx.com)
+🌐 You are not in China? Please visit [Babelyx - Global](https://lib.earth.babelyx.com)
