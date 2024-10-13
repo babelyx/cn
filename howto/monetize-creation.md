@@ -1,8 +1,8 @@
-# 怎样把您的内容变成您的资产，给您带来长久的收益？
+# 怎样把您的内容变成资产，给您带来长久的收益？
 
-Babelyx transforms every user content to an asset and a store. The asset circulates and appreciates among different market roles, providing long-term stable income for all stakeholders.
+巴贝历将您的数字内容铸造成坚如磐石的资产，在一个智能市场中自动流转和增值，为您带来源源不断的被动收入。
 
-This is powered by Role Pacts.
+这是由多角色权益合约所实现的。
 
 待续...
 

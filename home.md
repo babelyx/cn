@@ -13,8 +13,9 @@
   - [隐私协议](./doc/privacy.md)
 - [指南](./howto/)
   - [怎样创建 Aipp 小应用？](./howto/create-aipp.md)
+  - [把您的内容变成资产？](./howto/monetize-creation.md)
 
-说一千道一万，不如立刻 [体验巴贝历！](https://u.babely.cc)
+说一千道一万，不如亲手体验 [巴贝历！](https://u.babely.cc)
 
 欢迎 [全网搜索并关注【巴贝历】](https://links.babely.cc)
 
