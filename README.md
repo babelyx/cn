@@ -19,4 +19,4 @@
 
 ---
 
-🌐 You are not in China? Please visit **[Babelyx - Global](https://lib.earth.babelyx.com)**
+🌐 You are not in China? Please visit [**Babelyx - Global**](https://lib.earth.babelyx.com)
