@@ -1,6 +1,6 @@
 # 巴贝历 - 中国区
 
-🌐 For English speakers, please visit [**Babelyx - Global**](https://info.earth.babelyx.com)
+🌐 For English, please visit [Babelyx - Global](https://info.earth.babelyx.com)
 
 ---
 
@@ -18,8 +18,8 @@
 
 欢迎 [全网搜索并关注【巴贝历】](https://links.babely.cc)
 
-有任何想法？发送邮件给我们 [hi@babely.cc](mailto:hi@babely.cc) 或者 [在这里留言](https://csr.babely.cc)
-
-巴贝历是远近星空旗下应用，欢迎访问 [远近星空](https://yuanjinx.com) 发现更多前沿创新应用
+有任何想法？发送邮件给 [hi@babely.cc](mailto:hi@babely.cc) 或者 [给客服留言](https://csr.babely.cc)
 
 ---
+
+✨ 欢迎访问 [远近星空](https://yuanjinx.com) 发现更多前沿创新应用
