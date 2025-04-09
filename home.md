@@ -12,7 +12,8 @@
   - [用户协议](./doc/agreement.md)
   - [隐私协议](./doc/privacy.md)
 - [指南](./howto/)
-  - [怎样把您的数字内容变成创造物？](./howto/monetize-creation.md)
+  - [怎样从内容获得收入](./howto/monetize-creation.md)
+  - [怎样铸造 NFT？](./howto/mint-nft.md)
 
 说一千道一万，不如亲手体验 [巴贝历！](https://u.babely.cc)
 
