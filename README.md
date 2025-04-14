@@ -12,7 +12,7 @@
   - [用户协议](./doc/agreement.md)
   - [隐私协议](./doc/privacy.md)
 - [指南](./howto/)
-  - [怎样从内容获得收入](./howto/monetize-creation.md)
+  - [创作即变现！](./howto/monetize-creation.md)
   - [怎样铸造 NFT？](./howto/mint-nft.md)
 
 说一千道一万，不如亲手体验 [巴贝历！](https://u.babely.cc)
@@ -23,4 +23,4 @@
 
 ---
 
-✨ 欢迎访问 [远近星空](https://yuanjinx.com) 发现更多前沿创新应用
+✨ 巴贝历，源自 [远近星空](https://yuanjinx.com)
