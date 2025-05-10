@@ -1,6 +1,6 @@
-使这一切成为现实的，是我们独创发明的 BLX 专利技术，将 IPFS 的数据安全、 NFT 的数字产权、ETH 的智能合约巧妙的融为一体，还有强大的 AI 辅助创作，带给您前所未有的体验和保障。
+使这一切成为现实的，是我们独创发明的 BLX 专利技术，将 IPFS 的数据安全、 NFT 的数字产权、ETH 的智能合约巧妙的融为一体，还有 AI 辅助创作，带给您前所未有的体验和保障。
 
-<img src="./images/pitchdeck/Slide3.jpeg" alt="Image">
+<img src="./images/Slide3.jpeg" alt="Image">
 
 巴贝历拥有以下功能特性：
 
