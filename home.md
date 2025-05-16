@@ -6,18 +6,20 @@
 
 ### 目录
 
-- [什么是巴贝历？](./topic/whitepaper/home.md)
-- [历史和新闻](./news/home.md)
+- [什么是巴贝历？](./指南/whitepaper/home.md)
+- [巴贝历的新闻](./新闻/home.md)
 - 政策
-
-  - [用户协议](./doc/agreement.md)
-  - [隐私协议](./doc/privacy.md)
-
-- 主题
-
-  - [怎样变现您的内容？](./topic/monetize_creation/home.md)
-  - [怎样铸造 NFT？](./topic/mint_nft/home.md)
-  - [发表内容要注意什么？](./topic/content_rules/home.md)
+  - [使用协议](./协议/使用协议/home.md)
+  - [隐私政策](./协议/隐私政策/home.md)
+- 指南
+  - [怎样创造人造物？](./指南/怎样创造人造物/home.md)
+  - [怎样变现内容？](./指南/怎样变现内容/home.md)
+  - [怎样铸造 NFT？](./指南/怎样铸造NFT/home.md)
+- 想法
+  - [文字是人类的第一个元宇宙](./想法/20250510_文字是人类的第一个元宇宙/home.md)
+  - [人造物：人人都是造物主](./想法/20250511_人造物：人人都是造物主/home.md)
+  - [巴别图书馆：用户内容的元宇宙](./想法/20250512_巴别图书馆：人造物的元宇宙/home.md)
+  - [巴贝历：从用户内容到用户价值](./想法/20250513_巴贝历：从用户内容到用户价值/home.md)
 
 说一千道一万，不如立刻体验 [巴贝历！](https://u.babely.cc)
 
@@ -27,4 +29,6 @@
 
 ---
 
-✨ 巴贝历源自 [远近星空](https://yuanjinx.com)
+✨ [巴贝历应用](https://巴贝历.com)
+
+<!-- ✨ 巴贝历源自 [远近星空](https://yuanjinx.com) -->
