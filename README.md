@@ -1,34 +1,37 @@
-# 巴贝历 - 中文区
+# 巴贝历 - 简体中文
 
-🌐 For English, please visit [Babelyx - Global](https://info.earth.babelyx.com)
+🌎 [Babelyx - Global](https://info.earth.babelyx.com)
 
 ---
 
 ### 目录
 
-- [什么是巴贝历？](./指南/whitepaper/home.md)
-- [巴贝历的新闻](./新闻/home.md)
-- [规则](./规则)
+- 入门
+  - [用户向导：为什么使用巴贝历？](./入门/用户入门/home.md)
+  - [技术白皮书：变现你的内容](./入门/技术白皮书/home.md)
+- 新闻
+  - [版本更新](./新闻/home.md)
+- 规则
   - [使用协议](./规则/使用协议/home.md)
   - [隐私政策](./规则/隐私政策/home.md)
-- [指南](./指南)
-  - [怎样创造人造物？](./指南/怎样创造人造物/home.md)
+- 指南
+  - [怎样创作人造物？](./指南/怎样创作人造物/home.md)
   - [怎样变现内容？](./指南/怎样变现内容/home.md)
-  - [怎样铸造 NFT？](./指南/怎样铸造NFT/home.md)
-- [博客](./博客)
+  - [怎样生成造物币？](./指南/怎样生成造物币/home.md)
+- 博客
   - [文字是人类的第一个元宇宙](./博客/20250510_文字是人类的第一个元宇宙/home.md)
   - [人造物：人人都是造物主](./博客/20250511_人造物：人人都是造物主/home.md)
   - [巴别图书馆：用户内容的元宇宙](./博客/20250512_巴别图书馆：人造物的元宇宙/home.md)
   - [巴贝历：从用户内容到用户价值](./博客/20250513_巴贝历：从用户内容到用户价值/home.md)
 
-说一千道一万，不如立刻体验 [巴贝历应用](https://u.babely.cc)
+有任何想法？联系我们！
 
-欢迎在各大平台搜索并关注 [巴贝历频道](https://links.babely.cc)
-
-有任何想法？发送邮件给 [hi@babely.cc](mailto:hi@babely.cc) 或者 [给客服留言](https://csr.babely.cc)
+- 发送邮件给 [cn@babelyx.com](mailto:cn@babelyx.com)
+- 在应用里 `<a href="https://csr.巴贝历.com" target="_blank">`给客服留言`</a>`
+- 全网搜索并关注 `<a href="https://links.巴贝历.com" target="_blank">`【巴贝历】频道`</a>`
 
 ---
 
-✨ [巴贝历应用](https://巴贝历.com)
+🚀 说一千道一万，不如立刻体验 `<a href="https://u.巴贝历.com" target="_blank">`【巴贝历】应用`</a>`
 
 <!-- ✨ 巴贝历源自 [远近星空](https://yuanjinx.com) -->
