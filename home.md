@@ -1,6 +1,6 @@
 # 巴贝历 - 简体中文
 
-🌎 [Babelyx - Global](https://info.earth.babelyx.com)
+🌎 [Babelyx - Global](https://info.babelyx.com)
 
 ---
 
